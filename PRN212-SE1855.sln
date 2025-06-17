@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWPF", "HelloWPF\HelloW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonControll_TongHop", "ButtonControll_TongHop\ButtonControll_TongHop.csproj", "{E4714CA9-5172-4088-9D89-1E976A18E350}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxControlEvent", "CheckBoxControlEvent\CheckBoxControlEvent.csproj", "{F003D788-F297-4541-B2D6-D3698F721B26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{E4714CA9-5172-4088-9D89-1E976A18E350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4714CA9-5172-4088-9D89-1E976A18E350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4714CA9-5172-4088-9D89-1E976A18E350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F003D788-F297-4541-B2D6-D3698F721B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F003D788-F297-4541-B2D6-D3698F721B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F003D788-F297-4541-B2D6-D3698F721B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F003D788-F297-4541-B2D6-D3698F721B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
